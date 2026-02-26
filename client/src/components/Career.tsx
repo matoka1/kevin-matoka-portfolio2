@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 
 const timeline = [
   {
-    period: "2023 – Present",
+    period: "2025 – Present",
     title: "Head of Department, School of Nursing",
     org: "Nakuru College of Health Science and Management",
     location: "Nakuru, Kenya",
@@ -22,7 +22,7 @@ const timeline = [
     ],
   },
   {
-    period: "2022 – 2023",
+    period: "2024 – 2025",
     title: "Registered Nursing Officer",
     org: "Nakuru Level 5 Hospital",
     location: "Nakuru, Kenya",
